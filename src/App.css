@@ -3,10 +3,10 @@
     margin: 0;
     box-sizing: border-box;
 }
-/* CartoonFonts */
+/* Prince Valiant */
     @font-face {
-        font-family: "CartoonFonts";
-        src: url("assets/CartoonFonts/From\ Cartoon\ Blocks.ttf") ;
+        font-family: "Prince Valiant";
+        src: url("assets/PrinceValiant/Prince\ Valiant.ttf") ;
     }
 body{
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url(images/bg\ 2.jpg);
@@ -33,7 +33,7 @@ h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 h2{
-    font-family: "CartoonFonts";
+    font-family: "Prince Valiant";
     font-size: 3rem;
     text-align: center;
     color: rgb(9, 80, 55);
