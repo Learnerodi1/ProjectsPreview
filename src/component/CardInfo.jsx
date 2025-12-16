@@ -6,6 +6,7 @@ import ShalomBlog1 from "../images/pic3.png"
 import Cure1 from "../images/pic5.png"
 import TodoList1 from "../images/pic6.png"
 import DiceGame1 from "../images/p7.png"
+import Tenzies1 from "../images/pic8.png"
 
 const CardInfo = [
     {
@@ -42,6 +43,11 @@ const CardInfo = [
         name : "TodoList",
         imageLink1 : TodoList1,
         link : "https://todo-list-nine-pi-95.vercel.app/"
+    },
+    {
+        name : "Tenzies",
+        imageLink1 : Tenzies1,
+        link : "https://tenzies-ten-vert.vercel.app/"
     }
 ]
 
